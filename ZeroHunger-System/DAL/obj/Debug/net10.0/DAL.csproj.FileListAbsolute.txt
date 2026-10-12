@@ -1,0 +1,15 @@
+D:\dot net\ZeroHunger-System\DAL\bin\Debug\net10.0\DAL.deps.json
+D:\dot net\ZeroHunger-System\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
+D:\dot net\ZeroHunger-System\DAL\bin\Debug\net10.0\DAL.dll
+D:\dot net\ZeroHunger-System\DAL\bin\Debug\net10.0\DAL.pdb
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\DAL.sourcelink.json
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\DAL.dll
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\refint\DAL.dll
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\DAL.pdb
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
+D:\dot net\ZeroHunger-System\DAL\obj\Debug\net10.0\ref\DAL.dll
